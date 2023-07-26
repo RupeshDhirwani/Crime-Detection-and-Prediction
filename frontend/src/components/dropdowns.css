@@ -1,0 +1,60 @@
+#drpdwns {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    height: 30vh;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    font-size: 45px;
+    margin-bottom: 40px;
+    font-weight: bold;
+  }
+
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: bolder;
+  }
+  
+  #drpdwn {
+    margin-bottom: 20px;
+  }
+  
+  #lbl {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  
+  #options {
+    width: 200px;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  #cmt {
+    margin-bottom: 15px;
+  }
+  
+  #txt-area {
+    display: block;
+    width: 400px;
+    height: 100px;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  #submitting {
+    margin-top: 30px ;
+    margin-bottom: 20px;
+  }
+
+  
